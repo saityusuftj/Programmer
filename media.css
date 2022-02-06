@@ -1,0 +1,237 @@
+
+
+@media (max-width: 1080px ) {
+
+div h1 {
+	font-size:32px;
+	padding-top: 20px;
+}
+
+.table {
+	width:100%;
+}
+
+table tr th a {
+
+	font-size:27px;
+}
+
+div.asos {
+
+	margin-top:-70px;
+}
+
+
+div.lang {
+
+	margin-top:-100px;
+}
+
+div.game {
+
+	margin-top:-100px;
+}
+
+
+
+
+div.header {
+    background-image: url(Foto/header.jpg);
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 90%;
+    height: 530px;
+}
+
+
+div.headers {
+    background-image: url(Foto/program.jpg);
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 90%;
+    height: 530px;
+}
+
+div.headersr {
+    background-image: url(Foto/game.jpg);
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 90%;
+    height: 530px;
+}
+
+
+
+}
+
+
+
+
+
+/*			2			 */
+
+@media (max-width: 700px ) {
+
+div h1 {
+	font-size:25px;
+	padding-top: 20px;
+}
+
+
+div.menu {
+  display: flex;
+  flex-wrap: wrap; 
+}
+
+
+.table {
+	width:100%;
+}
+
+table tr th a {
+
+	font-size:18px;
+}
+
+
+div.asos {
+
+	margin-top:-70px;
+}
+
+
+div.lang {
+
+	margin-top:-100px;
+}
+
+div.game {
+
+	margin-top:-100px;
+}
+
+
+
+
+div.header {
+    background-image: url(Foto/header.jpg);
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 90%;
+    height: 400px;
+}
+
+
+div.headers {
+    background-image: url(Foto/program.jpg);
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 90%;
+    height: 400px;
+}
+
+div.headersr {
+    background-image: url(Foto/game.jpg);
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 90%;
+    height: 400px;
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*     		3		      */
+
+@media (max-width: 500px) {
+
+div h1 {
+	font-size:20px;
+	padding-top: 20px;
+}
+
+
+div.menu {
+  display: flex;
+  flex-wrap: wrap; 
+}
+
+
+.table {
+	width:100%;
+}
+
+table tr th a {
+	font-size: 16px; 
+}
+
+
+
+div.asos {
+
+	margin-top:-70px;
+}
+
+
+div.lang {
+
+	margin-top:-100px;
+}
+
+div.game {
+
+	margin-top:-100px;
+}
+
+
+
+
+div.header {
+    background-image: url(Foto/header.jpg);
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 90%;
+    height: 300px;
+}
+
+
+div.headers {
+    background-image: url(Foto/program.jpg);
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 90%;
+    height: 300px;
+}
+
+div.headersr {
+    background-image: url(Foto/game.jpg);
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 90%;
+    height: 300px;
+}
+
+
+
+}

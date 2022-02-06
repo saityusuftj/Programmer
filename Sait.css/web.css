@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  font-family: 'Bebas Neue', cursive;
+  font-family: 'Lobster', cursive;
+  background-image: url('../Foto/Video.jpg');
+}
+
+table {
+  margin:0;
+  border: 4px solid blue;
+  border-radius:10px;
+  background-color:#290be5;
+  position: fixed;
+}
+
+tr {
+  height: 60px;
+}
+
+th:hover{
+  color:red; 
+  background-color:#5364fc;
+  border-radius:10px;
+ }
+
+
+
+a {
+  color:white;
+  font-size:35px;
+  text-decoration: 0;
+}
+
+a:hover {
+  color:#ffd700;
+}
+
+div {
+	background-color:#290be5; 
+	width:25%;
+	text-align: center;
+	border: 4px solid blue;
+  	border-radius:20px;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+div:hover {
+	background:#5364fc;
+}
+
+h1 {
+	font-size:40px;
+  color:white;
+}
